@@ -14,7 +14,7 @@ A simple text summarization tool using Hugging Face Transformers v5+ on Google C
 ✅ Interactive user input  
 ✅ High-quality BART-based summaries  
 
-## Supported Models
+## Models
 
 - **facebook/bart-large-cnn** - General text and articles
 - **google/pegasus-arxiv** - Scientific papers
